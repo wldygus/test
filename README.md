@@ -7,8 +7,8 @@
 
 # 다운로드
 
-1. 안드로이드 버전은 [hhi_0.01_alpha](https://github.com/wldygus/HHI/blob/master/HHI.apk)(https://github.com/wldygus/HHI/blob/master/HHI.apk)를 눌러서 다운로드 하실수 있습니다.
-2. 웹 버전은 [여기](http://jikkk9.dothome.co.kr)(http://jikkk9.dothome.co.kr)를 눌러 브라우저에서 이용할수 있습니다.
+1. 안드로이드 버전은 [hhi_0.01_alpha](https://github.com/wldygus/HHI/blob/master/HHI.apk)github.com/wldygus/HHI/blob/master/HHI.apk를 눌러서 다운로드 하실수 있습니다.
+2. 웹 버전은 [여기](http://jikkk9.dothome.co.kr)jikkk9.dothome.co.kr를 눌러 브라우저에서 이용할수 있습니다.
 
 
 # 문의
